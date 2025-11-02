@@ -11,3 +11,4 @@ vless://3122de14-fd00-d6c3-13f7-72ea0db319c1@dwqfghztnslyvbmokjcapxieruhtgnqszmj
 vless://3122de14-fd00-d6c3-13f7-72ea0db319c1@dwqfghztnslyvbmokjcapxieruhtgnqszmjylovfb.zhongyang-telecom.com:6690?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&pbk=IHV4lW4QHzL9MYxqyCGo33bwwaEngZCTZ9nYKymVTi4&sid=b44ca6b9c4b28fe1#%F0%9F%87%A9%F0%9F%87%AAGermany38%20C1
 vless://3122de14-fd00-d6c3-13f7-72ea0db319c1@fast.brimliski.com:80?security=none&type=xhttp&path=%2F&host=thor.global.ssl.fastly.net#%F0%9F%87%AB%F0%9F%87%AEFinland%20Emergency
 vless://3122de14-fd00-d6c3-13f7-72ea0db319c1@fast.brimliski.com:80?security=none&type=xhttp&path=%2FV3xhttp&host=odin.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AAGermany%20Emergency
+vless://ce55bc76-42f5-45dc-b194-3cd8bd6a58aa@instddhgk.irancpi.info:443?security=none&encryption=none&headerType=none&type=tcp#EMS%F0%9F%9A%A8
